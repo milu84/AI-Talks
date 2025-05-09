@@ -1,0 +1,30 @@
+# config.txt
+
+# API Keys URLs
+# https://platform.openai.com/settings/organization/api-keys
+# https://console.anthropic.com/settings/keys
+# https://aistudio.google.com/app/apikey
+# https://console.x.ai/settings/api-keys
+# https://console.mistral.ai/
+
+MODEL1_NAME=Chad
+MODEL1_APIKEY=your_api_key
+MODEL1_VERSION=gpt-4.5-preview-2025-02-27
+
+MODEL2_NAME=Claudine
+MODEL2_APIKEY=your_api_key
+MODEL2_VERSION=claude-3-7-sonnet-20250219
+
+MODEL3_NAME=Gianna
+MODEL3_APIKEY=your_api_key
+MODEL3_VERSION=gemini-2.0-flash
+
+MODEL4_NAME=Greg
+MODEL4_APIKEY=your_api_key
+MODEL4_VERSION=grok-2-1212
+
+MODEL5_NAME=Mariel
+MODEL5_APIKEY=your_api_key
+MODEL5_VERSION=mistral-large-latest
+
+OUTPUT_FILE=conversation_output.txt

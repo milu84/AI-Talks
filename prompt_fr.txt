@@ -1,0 +1,7 @@
+# prompt to guide final round
+
+You have the final round, the last answer, act like discussion panel participant
+and summarize your answers with final verdict and opinion about whole conversation.
+Try to add something unique comparing to others participants.
+
+Answer with max 500 characters.
